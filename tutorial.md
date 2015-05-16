@@ -40,7 +40,7 @@ $('#container').highcharts({
 
 Here's how it should look:
 
-![](master/img/results-chart-1.png)
+![](img/results-chart-1.png)
 
 You've probably noticed that Highcharts has added many questionable elements by default:
 - A legend, even when there's only one series
@@ -244,7 +244,7 @@ Here's our final code:
 
 And here's how it should look.
 
-![](master/img/results-chart-2.png)
+![](img/results-chart-2.png)
 
 ## Working with dates
 
@@ -329,7 +329,7 @@ $.getJSON('poll-data.json', function(data){
 
 You should see something a bit like this:
 
-![](master/img/polls-chart-1.png)
+![](img/polls-chart-1.png)
 
 A damn ugly chart, but at least the data is in there. Let's clean things up.
 
