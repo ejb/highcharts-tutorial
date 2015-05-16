@@ -291,7 +291,11 @@ A damn ugly chart, but at least the data is in there. Let's clean things up.
 // ...
 ```
 
-Looks good to me. The [complete code for this example is here](examples/chart2.html) if you need it.
+You should now have a chart that looks like this:
+
+![](img/polls-chart-2.png)
+
+The [complete code for this example is here](examples/chart2.html) if you need it.
 
 ## Challenge round
 
