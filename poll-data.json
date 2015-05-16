@@ -1,0 +1,4012 @@
+[
+  {
+    "date": "15-06-1984",
+    "CON": 37,
+    "LAB": 38,
+    "LIB DEM": 23,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "n/a",
+    "Fieldwork dates": "June, 1984"
+  },
+  {
+    "date": "15-07-1984",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 26,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "n/a",
+    "Fieldwork dates": "July, 1984"
+  },
+  {
+    "date": "15-08-1984",
+    "CON": 36,
+    "LAB": 39,
+    "LIB DEM": 24,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "n/a",
+    "Fieldwork dates": "Aug, 1984"
+  },
+  {
+    "date": "15-09-1984",
+    "CON": 39,
+    "LAB": 38,
+    "LIB DEM": 21,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "n/a",
+    "Fieldwork dates": "Sep 1984"
+  },
+  {
+    "date": "15-10-1984",
+    "CON": 38,
+    "LAB": 36,
+    "LIB DEM": 24,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Oct, 1984"
+  },
+  {
+    "date": "15-11-1984",
+    "CON": 42,
+    "LAB": 33,
+    "LIB DEM": 24,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "n/a",
+    "Fieldwork dates": "Nov, 1984"
+  },
+  {
+    "date": "15-12-1984",
+    "CON": 41,
+    "LAB": 32,
+    "LIB DEM": 26,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "n/a",
+    "Fieldwork dates": "Dec, 1984"
+  },
+  {
+    "date": "15-01-1985",
+    "CON": 41,
+    "LAB": 33,
+    "LIB DEM": 25,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": 8,
+    "Sample": "n/a",
+    "Fieldwork dates": "Jan, 1985"
+  },
+  {
+    "date": "15-02-1985",
+    "CON": 38,
+    "LAB": 36,
+    "LIB DEM": 25,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Feb, 1985"
+  },
+  {
+    "date": "15-03-1985",
+    "CON": 36,
+    "LAB": 36,
+    "LIB DEM": 27,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "n/a",
+    "Fieldwork dates": "March, 1985"
+  },
+  {
+    "date": "15-04-1985",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 28,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "n/a",
+    "Fieldwork dates": "April, 1985"
+  },
+  {
+    "date": "15-05-1985",
+    "CON": 29,
+    "LAB": 34,
+    "LIB DEM": 35,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "n/a",
+    "Fieldwork dates": "May, 1985"
+  },
+  {
+    "date": "15-06-1985",
+    "CON": 31,
+    "LAB": 36,
+    "LIB DEM": 32,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "n/a",
+    "Fieldwork dates": "June, 1985"
+  },
+  {
+    "date": "15-07-1985",
+    "CON": 31,
+    "LAB": 34,
+    "LIB DEM": 33,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "n/a",
+    "Fieldwork dates": "July, 1985"
+  },
+  {
+    "date": "15-08-1985",
+    "CON": 31,
+    "LAB": 36,
+    "LIB DEM": 31,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "n/a",
+    "Fieldwork dates": "Aug, 1985"
+  },
+  {
+    "date": "15-09-1985",
+    "CON": 31,
+    "LAB": 32,
+    "LIB DEM": 36,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "n/a",
+    "Fieldwork dates": "Sep 1985"
+  },
+  {
+    "date": "15-10-1985",
+    "CON": 32,
+    "LAB": 34,
+    "LIB DEM": 32,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Oct, 1985"
+  },
+  {
+    "date": "15-11-1985",
+    "CON": 34,
+    "LAB": 35,
+    "LIB DEM": 28,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "n/a",
+    "Fieldwork dates": "Nov, 1985"
+  },
+  {
+    "date": "15-12-1985",
+    "CON": 35,
+    "LAB": 33,
+    "LIB DEM": 30,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Dec, 1985"
+  },
+  {
+    "date": "15-01-1986",
+    "CON": 29,
+    "LAB": 36,
+    "LIB DEM": 33,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "n/a",
+    "Fieldwork dates": "Jan, 1986"
+  },
+  {
+    "date": "15-02-1986",
+    "CON": 27,
+    "LAB": 36,
+    "LIB DEM": 35,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "n/a",
+    "Fieldwork dates": "Feb, 1986"
+  },
+  {
+    "date": "15-03-1986",
+    "CON": 32,
+    "LAB": 36,
+    "LIB DEM": 31,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "n/a",
+    "Fieldwork dates": "March, 1986"
+  },
+  {
+    "date": "15-04-1986",
+    "CON": 32,
+    "LAB": 35,
+    "LIB DEM": 30,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "n/a",
+    "Fieldwork dates": "April, 1986"
+  },
+  {
+    "date": "15-05-1986",
+    "CON": 28,
+    "LAB": 39,
+    "LIB DEM": 30,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "n/a",
+    "Fieldwork dates": "May, 1986"
+  },
+  {
+    "date": "15-06-1986",
+    "CON": 33,
+    "LAB": 39,
+    "LIB DEM": 26,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "n/a",
+    "Fieldwork dates": "June, 1986"
+  },
+  {
+    "date": "15-07-1986",
+    "CON": 31,
+    "LAB": 38,
+    "LIB DEM": 28,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "n/a",
+    "Fieldwork dates": "July, 1986"
+  },
+  {
+    "date": "15-08-1986",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 27,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "n/a",
+    "Fieldwork dates": "Aug, 1986"
+  },
+  {
+    "date": "15-09-1986",
+    "CON": 34,
+    "LAB": 40,
+    "LIB DEM": 24,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "n/a",
+    "Fieldwork dates": "Sep 1986"
+  },
+  {
+    "date": "15-10-1986",
+    "CON": 36,
+    "LAB": 39,
+    "LIB DEM": 24,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "n/a",
+    "Fieldwork dates": "Oct, 1986"
+  },
+  {
+    "date": "14-11-1986",
+    "CON": 38,
+    "LAB": 36,
+    "LIB DEM": 23,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Nov, 1986"
+  },
+  {
+    "date": "14-12-1986",
+    "CON": 39,
+    "LAB": 38,
+    "LIB DEM": 21,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "n/a",
+    "Fieldwork dates": "Dec, 1986"
+  },
+  {
+    "date": "14-01-1987",
+    "CON": 38,
+    "LAB": 36,
+    "LIB DEM": 23,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Jan, 1987"
+  },
+  {
+    "date": "13-02-1987",
+    "CON": 38,
+    "LAB": 35,
+    "LIB DEM": 24,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "n/a",
+    "Fieldwork dates": "Feb, 1987"
+  },
+  {
+    "date": "16-03-1987",
+    "CON": 38,
+    "LAB": 32,
+    "LIB DEM": 27,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "n/a",
+    "Fieldwork dates": "March, 1987"
+  },
+  {
+    "date": "15-04-1987",
+    "CON": 38,
+    "LAB": 32,
+    "LIB DEM": 27,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "n/a",
+    "Fieldwork dates": "April, 1987"
+  },
+  {
+    "date": "16-05-1987",
+    "CON": 43,
+    "LAB": 29,
+    "LIB DEM": 25,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 14,
+    "Sample": "1,445",
+    "Fieldwork dates": "8-12 May, 1987"
+  },
+  {
+    "date": "21-05-1987",
+    "CON": 41,
+    "LAB": 33,
+    "LIB DEM": 21,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": 8,
+    "Sample": "1,517",
+    "Fieldwork dates": "5/21/1987"
+  },
+  {
+    "date": "28-05-1987",
+    "CON": 44,
+    "LAB": 32,
+    "LIB DEM": 21,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 12,
+    "Sample": "1,553",
+    "Fieldwork dates": "5/28/1987"
+  },
+  {
+    "date": "04-06-1987",
+    "CON": 44,
+    "LAB": 34,
+    "LIB DEM": 20,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 10,
+    "Sample": "1,567",
+    "Fieldwork dates": "6/4/1987"
+  },
+  {
+    "date": "08-06-1987",
+    "CON": 45,
+    "LAB": 32,
+    "LIB DEM": 21,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 13,
+    "Sample": "1,575",
+    "Fieldwork dates": "6/8/1987"
+  },
+  {
+    "date": "10-06-1987",
+    "CON": 42,
+    "LAB": 35,
+    "LIB DEM": 21,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 7,
+    "Sample": "1,633",
+    "Fieldwork dates": "6/10/1987"
+  },
+  {
+    "date": "11-06-1987",
+    "CON": 43,
+    "LAB": 32,
+    "LIB DEM": 23,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 11,
+    "Sample": "GENERAL ELECTION RESULT - 11 June 1987",
+    "Fieldwork dates": ""
+  },
+  {
+    "date": "15-10-1987",
+    "CON": 45,
+    "LAB": 39,
+    "LIB DEM": 13,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "n/a",
+    "Fieldwork dates": "Oct, 1987"
+  },
+  {
+    "date": "15-12-1987",
+    "CON": 47,
+    "LAB": 37,
+    "LIB DEM": 13,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 10,
+    "Sample": "n/a",
+    "Fieldwork dates": "Dec, 1987"
+  },
+  {
+    "date": "15-01-1988",
+    "CON": 42,
+    "LAB": 40,
+    "LIB DEM": 17,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Jan, 1988"
+  },
+  {
+    "date": "15-02-1988",
+    "CON": 43,
+    "LAB": 43,
+    "LIB DEM": 14,
+    "OTHER": 1,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "n/a",
+    "Fieldwork dates": "Feb, 1988"
+  },
+  {
+    "date": "15-03-1988",
+    "CON": 45,
+    "LAB": 41,
+    "LIB DEM": 12,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "n/a",
+    "Fieldwork dates": "March, 1988"
+  },
+  {
+    "date": "15-04-1988",
+    "CON": 43,
+    "LAB": 42,
+    "LIB DEM": 12,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "n/a",
+    "Fieldwork dates": "April, 1988"
+  },
+  {
+    "date": "15-05-1988",
+    "CON": 44,
+    "LAB": 42,
+    "LIB DEM": 11,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "May, 1988"
+  },
+  {
+    "date": "15-06-1988",
+    "CON": 47,
+    "LAB": 42,
+    "LIB DEM": 9,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "n/a",
+    "Fieldwork dates": "June, 1988"
+  },
+  {
+    "date": "15-07-1988",
+    "CON": 45,
+    "LAB": 43,
+    "LIB DEM": 9,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "n/a",
+    "Fieldwork dates": "July, 1988"
+  },
+  {
+    "date": "15-08-1988",
+    "CON": 45,
+    "LAB": 41,
+    "LIB DEM": 11,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "n/a",
+    "Fieldwork dates": "Aug, 1988"
+  },
+  {
+    "date": "15-09-1988",
+    "CON": 42,
+    "LAB": 44,
+    "LIB DEM": 12,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "n/a",
+    "Fieldwork dates": "Sep 1988"
+  },
+  {
+    "date": "15-10-1988",
+    "CON": 44,
+    "LAB": 40,
+    "LIB DEM": 13,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "n/a",
+    "Fieldwork dates": "Oct, 1988"
+  },
+  {
+    "date": "15-11-1988",
+    "CON": 42,
+    "LAB": 42,
+    "LIB DEM": 13,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "n/a",
+    "Fieldwork dates": "Nov, 1988"
+  },
+  {
+    "date": "15-12-1988",
+    "CON": 45,
+    "LAB": 39,
+    "LIB DEM": 12,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "n/a",
+    "Fieldwork dates": "Dec, 1988"
+  },
+  {
+    "date": "16-01-1989",
+    "CON": 44,
+    "LAB": 40,
+    "LIB DEM": 11,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,540",
+    "Fieldwork dates": "13-16 Jan, 1989"
+  },
+  {
+    "date": "11-02-1989",
+    "CON": 42,
+    "LAB": 39,
+    "LIB DEM": 14,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "1,439",
+    "Fieldwork dates": "10-11 Feb, 1989"
+  },
+  {
+    "date": "13-03-1989",
+    "CON": 42,
+    "LAB": 41,
+    "LIB DEM": 14,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,427",
+    "Fieldwork dates": "10-13 Mar, 1989"
+  },
+  {
+    "date": "08-04-1989",
+    "CON": 44,
+    "LAB": 40,
+    "LIB DEM": 13,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,388",
+    "Fieldwork dates": "7-8 April, 1989"
+  },
+  {
+    "date": "13-05-1989",
+    "CON": 43,
+    "LAB": 43,
+    "LIB DEM": 11,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,473",
+    "Fieldwork dates": "12-13 May, 1989"
+  },
+  {
+    "date": "10-06-1989",
+    "CON": 38,
+    "LAB": 42,
+    "LIB DEM": 11,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,473",
+    "Fieldwork dates": "9-10 June, 1989"
+  },
+  {
+    "date": "08-07-1989",
+    "CON": 38,
+    "LAB": 42,
+    "LIB DEM": 10,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,332",
+    "Fieldwork dates": "7-8 July, 1989"
+  },
+  {
+    "date": "12-08-1989",
+    "CON": 37,
+    "LAB": 45,
+    "LIB DEM": 9,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,430",
+    "Fieldwork dates": "11-12 Aug, 1989"
+  },
+  {
+    "date": "09-09-1989",
+    "CON": 38,
+    "LAB": 46,
+    "LIB DEM": 6,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,400",
+    "Fieldwork dates": "8-9 Sep 1989"
+  },
+  {
+    "date": "07-10-1989",
+    "CON": 39,
+    "LAB": 49,
+    "LIB DEM": 6,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,430",
+    "Fieldwork dates": "6-7 Oct, 1989"
+  },
+  {
+    "date": "07-11-1989",
+    "CON": 36,
+    "LAB": 49,
+    "LIB DEM": 9,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,460",
+    "Fieldwork dates": "6-7 Nov, 1989"
+  },
+  {
+    "date": "08-12-1989",
+    "CON": 37,
+    "LAB": 49,
+    "LIB DEM": 8,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,333",
+    "Fieldwork dates": "7-8 Dec, 1989"
+  },
+  {
+    "date": "12-01-1990",
+    "CON": 38,
+    "LAB": 47,
+    "LIB DEM": 8,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,460",
+    "Fieldwork dates": "11-12 Jan, 1990"
+  },
+  {
+    "date": "06-02-1990",
+    "CON": 36,
+    "LAB": 51,
+    "LIB DEM": 6,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,327",
+    "Fieldwork dates": "5-6 Feb, 1990"
+  },
+  {
+    "date": "09-04-1990",
+    "CON": 31,
+    "LAB": 52,
+    "LIB DEM": 9,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -21,
+    "Sample": "1,462",
+    "Fieldwork dates": "8-9 April, 1990"
+  },
+  {
+    "date": "07-04-1990",
+    "CON": 32,
+    "LAB": 56,
+    "LIB DEM": 6,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -24,
+    "Sample": "1,372",
+    "Fieldwork dates": "6-7 April, 1990"
+  },
+  {
+    "date": "12-05-1990",
+    "CON": 32,
+    "LAB": 50,
+    "LIB DEM": 13,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,356",
+    "Fieldwork dates": "11-12 May, 1990"
+  },
+  {
+    "date": "09-06-1990",
+    "CON": 35,
+    "LAB": 54,
+    "LIB DEM": 5,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -19,
+    "Sample": "1,398",
+    "Fieldwork dates": "8-9 June, 1990"
+  },
+  {
+    "date": "07-07-1990",
+    "CON": 35,
+    "LAB": 51,
+    "LIB DEM": 8,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,407",
+    "Fieldwork dates": "6-7 July, 1990"
+  },
+  {
+    "date": "11-08-1990",
+    "CON": 38,
+    "LAB": 49,
+    "LIB DEM": 9,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "1,342",
+    "Fieldwork dates": "10-11 Aug, 1990"
+  },
+  {
+    "date": "08-09-1990",
+    "CON": 37,
+    "LAB": 50,
+    "LIB DEM": 8,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,446",
+    "Fieldwork dates": "7-8 Sep 1990"
+  },
+  {
+    "date": "13-10-1990",
+    "CON": 36,
+    "LAB": 49,
+    "LIB DEM": 9,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,427",
+    "Fieldwork dates": "12-13 Oct, 1990"
+  },
+  {
+    "date": "10-11-1990",
+    "CON": 33,
+    "LAB": 49,
+    "LIB DEM": 13,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,446",
+    "Fieldwork dates": "9-10 Nov, 1990"
+  },
+  {
+    "date": "08-12-1990",
+    "CON": 45,
+    "LAB": 43,
+    "LIB DEM": 9,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,376",
+    "Fieldwork dates": "7-8 Dec, 1990"
+  },
+  {
+    "date": "12-01-1991",
+    "CON": 43,
+    "LAB": 43,
+    "LIB DEM": 10,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,424",
+    "Fieldwork dates": "11-12 Jan, 1991"
+  },
+  {
+    "date": "09-02-1991",
+    "CON": 44,
+    "LAB": 42,
+    "LIB DEM": 9,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,314",
+    "Fieldwork dates": "8-9 Feb, 1991"
+  },
+  {
+    "date": "09-03-1991",
+    "CON": 39,
+    "LAB": 40,
+    "LIB DEM": 16,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "1,393",
+    "Fieldwork dates": "8-9 March, 1991"
+  },
+  {
+    "date": "06-04-1991",
+    "CON": 39,
+    "LAB": 43,
+    "LIB DEM": 13,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,386",
+    "Fieldwork dates": "5-6 April, 1991"
+  },
+  {
+    "date": "11-05-1991",
+    "CON": 37,
+    "LAB": 43,
+    "LIB DEM": 16,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,373",
+    "Fieldwork dates": "10-11 May, 1991"
+  },
+  {
+    "date": "08-06-1991",
+    "CON": 34,
+    "LAB": 44,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,428",
+    "Fieldwork dates": "7-8 June, 1991"
+  },
+  {
+    "date": "06-07-1991",
+    "CON": 37,
+    "LAB": 43,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,399",
+    "Fieldwork dates": "5-6 July, 1991"
+  },
+  {
+    "date": "10-08-1991",
+    "CON": 36,
+    "LAB": 45,
+    "LIB DEM": 16,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,343",
+    "Fieldwork dates": "9-10 Aug, 1991"
+  },
+  {
+    "date": "14-09-1991",
+    "CON": 39,
+    "LAB": 39,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,387",
+    "Fieldwork dates": "13-14 Sep 1991"
+  },
+  {
+    "date": "12-10-1991",
+    "CON": 41,
+    "LAB": 43,
+    "LIB DEM": 12,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,438",
+    "Fieldwork dates": "11-12 Oct, 1991"
+  },
+  {
+    "date": "09-11-1991",
+    "CON": 41,
+    "LAB": 43,
+    "LIB DEM": 13,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,441",
+    "Fieldwork dates": "8-9 Nov, 1991"
+  },
+  {
+    "date": "07-12-1991",
+    "CON": 39,
+    "LAB": 42,
+    "LIB DEM": 14,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,408",
+    "Fieldwork dates": "6-7, Dec, 1991"
+  },
+  {
+    "date": "11-01-1992",
+    "CON": 42,
+    "LAB": 41,
+    "LIB DEM": 12,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,468",
+    "Fieldwork dates": "10-11 Jan, 1992"
+  },
+  {
+    "date": "08-02-1992",
+    "CON": 40,
+    "LAB": 40,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,462",
+    "Fieldwork dates": "7-8 Feb, 1992"
+  },
+  {
+    "date": "07-03-1992",
+    "CON": 39,
+    "LAB": 42,
+    "LIB DEM": 15,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,477",
+    "Fieldwork dates": "6-7 March, 1992"
+  },
+  {
+    "date": "17-03-1992",
+    "CON": 38,
+    "LAB": 43,
+    "LIB DEM": 16,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,100",
+    "Fieldwork dates": "3/17/1992"
+  },
+  {
+    "date": "24-03-1992",
+    "CON": 39,
+    "LAB": 40,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "1,096",
+    "Fieldwork dates": "3/24/1992"
+  },
+  {
+    "date": "31-03-1992",
+    "CON": 37,
+    "LAB": 41,
+    "LIB DEM": 18,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,126",
+    "Fieldwork dates": "3/31/1992"
+  },
+  {
+    "date": "08-04-1992",
+    "CON": 38,
+    "LAB": 38,
+    "LIB DEM": 20,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "2,186",
+    "Fieldwork dates": "4/8/1992"
+  },
+  {
+    "date": "09-04-1992",
+    "CON": 43,
+    "LAB": 35,
+    "LIB DEM": 18,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 8,
+    "Sample": "GENERAL ELECTION RESULT - 9 April, 1992",
+    "Fieldwork dates": ""
+  },
+  {
+    "date": "09-05-1992",
+    "CON": 45,
+    "LAB": 34,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,399",
+    "Fieldwork dates": "8-9 May, 1992"
+  },
+  {
+    "date": "07-06-1992",
+    "CON": 45,
+    "LAB": 36,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,438",
+    "Fieldwork dates": "6-7 June, 1992"
+  },
+  {
+    "date": "04-07-1992",
+    "CON": 45,
+    "LAB": 36,
+    "LIB DEM": 15,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,438",
+    "Fieldwork dates": "3-4 July, 1992"
+  },
+  {
+    "date": "08-08-1992",
+    "CON": 41,
+    "LAB": 36,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,467",
+    "Fieldwork dates": "7-8 Aug, 1992"
+  },
+  {
+    "date": "05-09-1992",
+    "CON": 39,
+    "LAB": 35,
+    "LIB DEM": 19,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,424",
+    "Fieldwork dates": "4-5 Sep 1992"
+  },
+  {
+    "date": "10-10-1992",
+    "CON": 38,
+    "LAB": 38,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,445",
+    "Fieldwork dates": "9-10 Oct, 1992"
+  },
+  {
+    "date": "07-11-1992",
+    "CON": 36,
+    "LAB": 40,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,441",
+    "Fieldwork dates": "6-7 Nov, 1992"
+  },
+  {
+    "date": "05-12-1992",
+    "CON": 36,
+    "LAB": 41,
+    "LIB DEM": 18,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,410",
+    "Fieldwork dates": "4-5 Dec, 1992"
+  },
+  {
+    "date": "09-01-1993",
+    "CON": 39,
+    "LAB": 37,
+    "LIB DEM": 18,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,463",
+    "Fieldwork dates": "8-9 Jan, 1993"
+  },
+  {
+    "date": "06-02-1993",
+    "CON": 37,
+    "LAB": 39,
+    "LIB DEM": 18,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,365",
+    "Fieldwork dates": "5-6 Feb, 1993"
+  },
+  {
+    "date": "06-03-1993",
+    "CON": 36,
+    "LAB": 41,
+    "LIB DEM": 18,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,432",
+    "Fieldwork dates": "5-6 March, 1993"
+  },
+  {
+    "date": "03-04-1993",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 21,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,427",
+    "Fieldwork dates": "2-3 April, 1993"
+  },
+  {
+    "date": "08-05-1993",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 24,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,458",
+    "Fieldwork dates": "7-8 May, 1993"
+  },
+  {
+    "date": "05-06-1993",
+    "CON": 31,
+    "LAB": 38,
+    "LIB DEM": 26,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,390",
+    "Fieldwork dates": "4-5 June, 1993"
+  },
+  {
+    "date": "03-07-1993",
+    "CON": 32,
+    "LAB": 37,
+    "LIB DEM": 25,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,424",
+    "Fieldwork dates": "2-3 July, 1993"
+  },
+  {
+    "date": "07-08-1993",
+    "CON": 30,
+    "LAB": 36,
+    "LIB DEM": 27,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,446",
+    "Fieldwork dates": "6-7 Aug, 1993"
+  },
+  {
+    "date": "11-09-1993",
+    "CON": 29,
+    "LAB": 40,
+    "LIB DEM": 26,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "1,403",
+    "Fieldwork dates": "10-11 Sep 1993"
+  },
+  {
+    "date": "09-10-1993",
+    "CON": 36,
+    "LAB": 39,
+    "LIB DEM": 20,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,391",
+    "Fieldwork dates": "8-9 Oct, 1993"
+  },
+  {
+    "date": "06-11-1993",
+    "CON": 34,
+    "LAB": 38,
+    "LIB DEM": 24,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,400",
+    "Fieldwork dates": "5-6 Nov, 1993"
+  },
+  {
+    "date": "04-12-1993",
+    "CON": 31,
+    "LAB": 42,
+    "LIB DEM": 23,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "1,451",
+    "Fieldwork dates": "3-4 Dec, 1993"
+  },
+  {
+    "date": "08-01-1994",
+    "CON": 31,
+    "LAB": 43,
+    "LIB DEM": 21,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,460",
+    "Fieldwork dates": "7-8 Jan, 1994"
+  },
+  {
+    "date": "12-02-1994",
+    "CON": 30,
+    "LAB": 44,
+    "LIB DEM": 21,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,434",
+    "Fieldwork dates": "11-12 Feb, 1994"
+  },
+  {
+    "date": "12-03-1994",
+    "CON": 29,
+    "LAB": 44,
+    "LIB DEM": 22,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,384",
+    "Fieldwork dates": "11-12 Mar, 1994"
+  },
+  {
+    "date": "09-04-1994",
+    "CON": 30,
+    "LAB": 42,
+    "LIB DEM": 22,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,407",
+    "Fieldwork dates": "8-9 April, 1994"
+  },
+  {
+    "date": "07-05-1994",
+    "CON": 29,
+    "LAB": 44,
+    "LIB DEM": 24,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,438",
+    "Fieldwork dates": "6-7 May, 1994"
+  },
+  {
+    "date": "21-05-1994",
+    "CON": 30,
+    "LAB": 44,
+    "LIB DEM": 20,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,420",
+    "Fieldwork dates": "20-21 May, 1994"
+  },
+  {
+    "date": "09-07-1994",
+    "CON": 31,
+    "LAB": 44,
+    "LIB DEM": 21,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,426",
+    "Fieldwork dates": "8-9 July, 1994"
+  },
+  {
+    "date": "06-08-1994",
+    "CON": 28,
+    "LAB": 49,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -21,
+    "Sample": "1,431",
+    "Fieldwork dates": "5-6 Aug, 1994"
+  },
+  {
+    "date": "10-09-1994",
+    "CON": 33,
+    "LAB": 45,
+    "LIB DEM": 18,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,437",
+    "Fieldwork dates": "9-10 Sep 1994"
+  },
+  {
+    "date": "08-10-1994",
+    "CON": 32,
+    "LAB": 49,
+    "LIB DEM": 15,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,464",
+    "Fieldwork dates": "7-8 Oct, 1994"
+  },
+  {
+    "date": "05-11-1994",
+    "CON": 31,
+    "LAB": 49,
+    "LIB DEM": 16,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,392",
+    "Fieldwork dates": "4-5 Nov, 1994"
+  },
+  {
+    "date": "03-12-1994",
+    "CON": 31,
+    "LAB": 49,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,450",
+    "Fieldwork dates": "2-3 Dec, 1994"
+  },
+  {
+    "date": "14-01-1995",
+    "CON": 30,
+    "LAB": 48,
+    "LIB DEM": 18,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,455",
+    "Fieldwork dates": "13-14 Jan, 1995"
+  },
+  {
+    "date": "11-02-1995",
+    "CON": 31,
+    "LAB": 49,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,427",
+    "Fieldwork dates": "10-11 Feb, 1995"
+  },
+  {
+    "date": "11-03-1995",
+    "CON": 27,
+    "LAB": 52,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -25,
+    "Sample": "1,447",
+    "Fieldwork dates": "10-11 Mar, 1995"
+  },
+  {
+    "date": "08-04-1995",
+    "CON": 26,
+    "LAB": 51,
+    "LIB DEM": 18,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -25,
+    "Sample": "1,358",
+    "Fieldwork dates": "7-8 April, 1995"
+  },
+  {
+    "date": "13-05-1995",
+    "CON": 29,
+    "LAB": 48,
+    "LIB DEM": 19,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -19,
+    "Sample": "1,428",
+    "Fieldwork dates": "12-13 May,1995"
+  },
+  {
+    "date": "10-06-1995",
+    "CON": 24,
+    "LAB": 53,
+    "LIB DEM": 19,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -29,
+    "Sample": "1,416",
+    "Fieldwork dates": "9-10 June, 1995"
+  },
+  {
+    "date": "08-07-1995",
+    "CON": 32,
+    "LAB": 47,
+    "LIB DEM": 17,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,347",
+    "Fieldwork dates": "7-8 July, 1995"
+  },
+  {
+    "date": "05-08-1995",
+    "CON": 31,
+    "LAB": 48,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,418",
+    "Fieldwork dates": "4-5 August, 1995"
+  },
+  {
+    "date": "09-09-1995",
+    "CON": 31,
+    "LAB": 48,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,373",
+    "Fieldwork dates": "8-9 Sep 1995"
+  },
+  {
+    "date": "07-10-1995",
+    "CON": 29,
+    "LAB": 49,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -20,
+    "Sample": "1,461",
+    "Fieldwork dates": "6-7 Oct, 1995"
+  },
+  {
+    "date": "05-11-1995",
+    "CON": 30,
+    "LAB": 47,
+    "LIB DEM": 19,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,231",
+    "Fieldwork dates": "3-5 Nov, 1995"
+  },
+  {
+    "date": "09-12-1995",
+    "CON": 31,
+    "LAB": 48,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,201",
+    "Fieldwork dates": "8-9 Dec, 1995"
+  },
+  {
+    "date": "07-01-1996",
+    "CON": 26,
+    "LAB": 48,
+    "LIB DEM": 22,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -22,
+    "Sample": "1,200",
+    "Fieldwork dates": "6-7 Jan, 1996"
+  },
+  {
+    "date": "04-02-1996",
+    "CON": 31,
+    "LAB": 47,
+    "LIB DEM": 19,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,200",
+    "Fieldwork dates": "2-4 Feb, 1996"
+  },
+  {
+    "date": "04-03-1996",
+    "CON": 31,
+    "LAB": 45,
+    "LIB DEM": 20,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,200",
+    "Fieldwork dates": "2-4 March, 1996"
+  },
+  {
+    "date": "13-04-1996",
+    "CON": 29,
+    "LAB": 50,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -21,
+    "Sample": "1,200",
+    "Fieldwork dates": "12-13 April, 1996"
+  },
+  {
+    "date": "05-05-1996",
+    "CON": 28,
+    "LAB": 45,
+    "LIB DEM": 21,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,200",
+    "Fieldwork dates": "3-5 May, 1996"
+  },
+  {
+    "date": "02-06-1996",
+    "CON": 30,
+    "LAB": 46,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,200",
+    "Fieldwork dates": "31 May-2 June, 1996"
+  },
+  {
+    "date": "06-07-1996",
+    "CON": 30,
+    "LAB": 45,
+    "LIB DEM": 21,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,200",
+    "Fieldwork dates": "5-6 July, 1996"
+  },
+  {
+    "date": "03-08-1996",
+    "CON": 33,
+    "LAB": 45,
+    "LIB DEM": 19,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,200",
+    "Fieldwork dates": "2-3 Aug, 1996"
+  },
+  {
+    "date": "07-09-1996",
+    "CON": 32,
+    "LAB": 47,
+    "LIB DEM": 16,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,200",
+    "Fieldwork dates": "6-7, Sep 1996"
+  },
+  {
+    "date": "05-10-1996",
+    "CON": 31,
+    "LAB": 49,
+    "LIB DEM": 16,
+    "OTHER": 3,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,200",
+    "Fieldwork dates": "4-5 Oct, 1996"
+  },
+  {
+    "date": "02-11-1996",
+    "CON": 34,
+    "LAB": 47,
+    "LIB DEM": 15,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,202",
+    "Fieldwork dates": "1-2 Nov, 1996"
+  },
+  {
+    "date": "01-12-1996",
+    "CON": 31,
+    "LAB": 50,
+    "LIB DEM": 15,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -19,
+    "Sample": "1,200",
+    "Fieldwork dates": "29 Nov-1 Dec, 1996"
+  },
+  {
+    "date": "05-01-1997",
+    "CON": 31,
+    "LAB": 48,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,201",
+    "Fieldwork dates": "3-5 Jan, 1997"
+  },
+  {
+    "date": "02-02-1997",
+    "CON": 32,
+    "LAB": 48,
+    "LIB DEM": 15,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,199",
+    "Fieldwork dates": "31 Jan-2 Feb, 1997"
+  },
+  {
+    "date": "02-03-1997",
+    "CON": 30,
+    "LAB": 48,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,201",
+    "Fieldwork dates": "28 Feb-2 Mar, 1997"
+  },
+  {
+    "date": "31-03-1997",
+    "CON": 32,
+    "LAB": 46,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,200",
+    "Fieldwork dates": "29-31 March, 1997"
+  },
+  {
+    "date": "07-04-1997",
+    "CON": 34,
+    "LAB": 46,
+    "LIB DEM": 15,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,022",
+    "Fieldwork dates": "6-7 April, 1997"
+  },
+  {
+    "date": "14-04-1997",
+    "CON": 31,
+    "LAB": 45,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,007",
+    "Fieldwork dates": "13-14 April, 1997"
+  },
+  {
+    "date": "21-04-1997",
+    "CON": 37,
+    "LAB": 42,
+    "LIB DEM": 14,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,004",
+    "Fieldwork dates": "20-21 April, 1997"
+  },
+  {
+    "date": "30-04-1997",
+    "CON": 33,
+    "LAB": 43,
+    "LIB DEM": 18,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,555",
+    "Fieldwork dates": "29-30 April, 1997"
+  },
+  {
+    "date": "01-05-1997",
+    "CON": 31.4,
+    "LAB": 44.4,
+    "LIB DEM": 17.2,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "GENERAL ELECTION RESULT - 1 May, 1997",
+    "Fieldwork dates": ""
+  },
+  {
+    "date": "08-06-1997",
+    "CON": 23,
+    "LAB": 62,
+    "LIB DEM": 14,
+    "OTHER": 2,
+    "CON LEAD OVER LABOUR": -39,
+    "Sample": "1,202",
+    "Fieldwork dates": "6-8 June, 1997"
+  },
+  {
+    "date": "28-06-1997",
+    "CON": 23,
+    "LAB": 61,
+    "LIB DEM": 12,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -38,
+    "Sample": "1,200",
+    "Fieldwork dates": "27-28 June, 1997"
+  },
+  {
+    "date": "09-08-1997",
+    "CON": 29,
+    "LAB": 55,
+    "LIB DEM": 12,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -26,
+    "Sample": "1,211",
+    "Fieldwork dates": "8-9 Aug, 1997"
+  },
+  {
+    "date": "09-09-1997",
+    "CON": 24,
+    "LAB": 60,
+    "LIB DEM": 10,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -36,
+    "Sample": "1,208",
+    "Fieldwork dates": "5-9 Sep 1997"
+  },
+  {
+    "date": "06-10-1997",
+    "CON": 23,
+    "LAB": 59,
+    "LIB DEM": 13,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -36,
+    "Sample": "1,211",
+    "Fieldwork dates": "5-6 Oct, 1997"
+  },
+  {
+    "date": "08-11-1997",
+    "CON": 30,
+    "LAB": 52,
+    "LIB DEM": 14,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -22,
+    "Sample": "1,200",
+    "Fieldwork dates": "7-8 Nov, 1997"
+  },
+  {
+    "date": "06-12-1997",
+    "CON": 29,
+    "LAB": 50,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -21,
+    "Sample": "1,200",
+    "Fieldwork dates": "5-6 Dec, 1997"
+  },
+  {
+    "date": "11-01-1998",
+    "CON": 30,
+    "LAB": 48,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,200",
+    "Fieldwork dates": "9-11 Jan, 1998"
+  },
+  {
+    "date": "08-02-1998",
+    "CON": 31,
+    "LAB": 47,
+    "LIB DEM": 18,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,200",
+    "Fieldwork dates": "6-8 Feb, 1998"
+  },
+  {
+    "date": "08-03-1998",
+    "CON": 33,
+    "LAB": 46,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,200",
+    "Fieldwork dates": "6-8 March, 1998"
+  },
+  {
+    "date": "05-04-1998",
+    "CON": 31,
+    "LAB": 48,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,212",
+    "Fieldwork dates": "3-5 April, 1998"
+  },
+  {
+    "date": "19-05-1998",
+    "CON": 29,
+    "LAB": 50,
+    "LIB DEM": 16,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -21,
+    "Sample": "1,101",
+    "Fieldwork dates": "15-19 May, 1998"
+  },
+  {
+    "date": "06-06-1998",
+    "CON": 29,
+    "LAB": 51,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -22,
+    "Sample": "1,201",
+    "Fieldwork dates": "5-6 June, 1998"
+  },
+  {
+    "date": "04-07-1998",
+    "CON": 27,
+    "LAB": 52,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -25,
+    "Sample": "1,200",
+    "Fieldwork dates": "3-4 July, 1998"
+  },
+  {
+    "date": "09-08-1998",
+    "CON": 31,
+    "LAB": 47,
+    "LIB DEM": 17,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,203",
+    "Fieldwork dates": "7-9 Aug, 1998"
+  },
+  {
+    "date": "06-09-1998",
+    "CON": 29,
+    "LAB": 48,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -19,
+    "Sample": "1,178",
+    "Fieldwork dates": "4-6 Sep 1998"
+  },
+  {
+    "date": "04-10-1998",
+    "CON": 29,
+    "LAB": 51,
+    "LIB DEM": 15,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -22,
+    "Sample": "1,210",
+    "Fieldwork dates": "1-4 Oct, 1998"
+  },
+  {
+    "date": "06-11-1998",
+    "CON": 27,
+    "LAB": 51,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -24,
+    "Sample": "1,210",
+    "Fieldwork dates": "4-6 Nov, 1998"
+  },
+  {
+    "date": "07-12-1998",
+    "CON": 29,
+    "LAB": 49,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -20,
+    "Sample": "1,123",
+    "Fieldwork dates": "4-7 Dec, 1998"
+  },
+  {
+    "date": "03-01-1999",
+    "CON": 30,
+    "LAB": 50,
+    "LIB DEM": 15,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -20,
+    "Sample": "1,209",
+    "Fieldwork dates": "30 Dec '98-3 Jan, 1999"
+  },
+  {
+    "date": "07-02-1999",
+    "CON": 28,
+    "LAB": 49,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -21,
+    "Sample": "1,211",
+    "Fieldwork dates": "5-7 Feb, 1999"
+  },
+  {
+    "date": "07-03-1999",
+    "CON": 29,
+    "LAB": 52,
+    "LIB DEM": 16,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -23,
+    "Sample": "1,217",
+    "Fieldwork dates": "5-7 March, 1999"
+  },
+  {
+    "date": "17-04-1999",
+    "CON": 28,
+    "LAB": 50,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -22,
+    "Sample": "1,205",
+    "Fieldwork dates": "16-17 April, 1999"
+  },
+  {
+    "date": "08-05-1999",
+    "CON": 28,
+    "LAB": 51,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -23,
+    "Sample": "1,205",
+    "Fieldwork dates": "7-8 May, 1999"
+  },
+  {
+    "date": "05-06-1999",
+    "CON": 29,
+    "LAB": 46,
+    "LIB DEM": 19,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,205",
+    "Fieldwork dates": "4-5 June, 1999"
+  },
+  {
+    "date": "11-07-1999",
+    "CON": 31,
+    "LAB": 48,
+    "LIB DEM": 16,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,200",
+    "Fieldwork dates": "9-11 July, 1999"
+  },
+  {
+    "date": "15-08-1999",
+    "CON": 30,
+    "LAB": 48,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,204",
+    "Fieldwork dates": "13-15 August, 1999"
+  },
+  {
+    "date": "18-09-1999",
+    "CON": 32,
+    "LAB": 45,
+    "LIB DEM": 16,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,202",
+    "Fieldwork dates": "17-18 September,1999"
+  },
+  {
+    "date": "23-10-1999",
+    "CON": 32,
+    "LAB": 45,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,084",
+    "Fieldwork dates": "22-23 October, 1999"
+  },
+  {
+    "date": "14-11-1999",
+    "CON": 34,
+    "LAB": 44,
+    "LIB DEM": 15,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,119",
+    "Fieldwork dates": "12-14 November, 1999"
+  },
+  {
+    "date": "12-12-1999",
+    "CON": 29,
+    "LAB": 48,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -19,
+    "Sample": "1,201",
+    "Fieldwork dates": "10-12 December, 1999"
+  },
+  {
+    "date": "17-01-2000",
+    "CON": 30,
+    "LAB": 47,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,155",
+    "Fieldwork dates": "14-17 January, 2000"
+  },
+  {
+    "date": "13-02-2000",
+    "CON": 29,
+    "LAB": 44,
+    "LIB DEM": 18,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,205",
+    "Fieldwork dates": "11-13 February, 2000"
+  },
+  {
+    "date": "19-03-2000",
+    "CON": 32,
+    "LAB": 44,
+    "LIB DEM": 16,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,207",
+    "Fieldwork dates": "17-19 March, 2000"
+  },
+  {
+    "date": "15-04-2000",
+    "CON": 32,
+    "LAB": 45,
+    "LIB DEM": 15,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,203",
+    "Fieldwork dates": "14-15 April, 2000"
+  },
+  {
+    "date": "15-05-2000",
+    "CON": 34,
+    "LAB": 41,
+    "LIB DEM": 18,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,207",
+    "Fieldwork dates": "13-15 May, 2000"
+  },
+  {
+    "date": "26-06-2000",
+    "CON": 32,
+    "LAB": 43,
+    "LIB DEM": 17,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "1,061",
+    "Fieldwork dates": "23-26 June, 2000"
+  },
+  {
+    "date": "15-07-2000",
+    "CON": 35,
+    "LAB": 42,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,056",
+    "Fieldwork dates": "14-15 July, 2000"
+  },
+  {
+    "date": "13-08-2000",
+    "CON": 34,
+    "LAB": 44,
+    "LIB DEM": 17,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,050",
+    "Fieldwork dates": "11-13 August, 2000"
+  },
+  {
+    "date": "17-09-2000",
+    "CON": 38,
+    "LAB": 34,
+    "LIB DEM": 22,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,055",
+    "Fieldwork dates": "15-17 Sep 2000"
+  },
+  {
+    "date": "16-10-2000",
+    "CON": 35,
+    "LAB": 40,
+    "LIB DEM": 19,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,001",
+    "Fieldwork dates": "13-16 Oct, 2000"
+  },
+  {
+    "date": "05-11-2000",
+    "CON": 34,
+    "LAB": 40,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,001",
+    "Fieldwork dates": "3-5 November, 2000"
+  },
+  {
+    "date": "03-12-2000",
+    "CON": 34,
+    "LAB": 44,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,003",
+    "Fieldwork dates": "1-3 December, 2000"
+  },
+  {
+    "date": "21-01-2001",
+    "CON": 34,
+    "LAB": 44,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,004",
+    "Fieldwork dates": "19-21 January, 2001"
+  },
+  {
+    "date": "18-02-2001",
+    "CON": 32,
+    "LAB": 47,
+    "LIB DEM": 15,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,000",
+    "Fieldwork dates": "16-18 February, 2001"
+  },
+  {
+    "date": "19-03-2001",
+    "CON": 35,
+    "LAB": 44,
+    "LIB DEM": 16,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,001",
+    "Fieldwork dates": "16-19 March, 2001"
+  },
+  {
+    "date": "30-03-2001",
+    "CON": 34,
+    "LAB": 49,
+    "LIB DEM": 13,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,000",
+    "Fieldwork dates": "29-30 March, 2001"
+  },
+  {
+    "date": "22-04-2001",
+    "CON": 33,
+    "LAB": 47,
+    "LIB DEM": 14,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,005",
+    "Fieldwork dates": "20-22 April, 2001"
+  },
+  {
+    "date": "11-05-2001",
+    "CON": 32,
+    "LAB": 48,
+    "LIB DEM": 15,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,011",
+    "Fieldwork dates": "10-11 May, 2001"
+  },
+  {
+    "date": "13-05-2001",
+    "CON": 32,
+    "LAB": 48,
+    "LIB DEM": 14,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,437",
+    "Fieldwork dates": "11-13 May, 2001"
+  },
+  {
+    "date": "14-05-2001",
+    "CON": 31,
+    "LAB": 46,
+    "LIB DEM": 16,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,004",
+    "Fieldwork dates": "13-14 May, 2001"
+  },
+  {
+    "date": "21-05-2001",
+    "CON": 32,
+    "LAB": 45,
+    "LIB DEM": 17,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,000",
+    "Fieldwork dates": "19-21 May, 2001"
+  },
+  {
+    "date": "28-05-2001",
+    "CON": 28,
+    "LAB": 47,
+    "LIB DEM": 17,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -19,
+    "Sample": "1,000",
+    "Fieldwork dates": "26-28 May, 2001"
+  },
+  {
+    "date": "01-06-2001",
+    "CON": 34,
+    "LAB": 46,
+    "LIB DEM": 15,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,005",
+    "Fieldwork dates": "31 May-1 June, 2001"
+  },
+  {
+    "date": "03-06-2001",
+    "CON": 30,
+    "LAB": 47,
+    "LIB DEM": 18,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,332",
+    "Fieldwork dates": "2-3 June, 2001"
+  },
+  {
+    "date": "04-06-2001",
+    "CON": 32,
+    "LAB": 43,
+    "LIB DEM": 19,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "1,009",
+    "Fieldwork dates": "2-4 June, 2001"
+  },
+  {
+    "date": "07-06-2001",
+    "CON": 32.7,
+    "LAB": 42,
+    "LIB DEM": 18.8,
+    "OTHER": 6.5,
+    "CON LEAD OVER LABOUR": -9.3,
+    "Sample": "GENERAL ELECTION RESULT - 7 June 2001",
+    "Fieldwork dates": ""
+  },
+  {
+    "date": "15-07-2001",
+    "CON": 30,
+    "LAB": 46,
+    "LIB DEM": 18,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,001",
+    "Fieldwork dates": "13-15 July, 2001"
+  },
+  {
+    "date": "19-08-2001",
+    "CON": 30,
+    "LAB": 46,
+    "LIB DEM": 17,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,004",
+    "Fieldwork dates": "17-19 August, 2001"
+  },
+  {
+    "date": "16-09-2001",
+    "CON": 29,
+    "LAB": 46,
+    "LIB DEM": 20,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,007",
+    "Fieldwork dates": "14-16 September, 2001"
+  },
+  {
+    "date": "21-10-2001",
+    "CON": 29,
+    "LAB": 47,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -18,
+    "Sample": "1,000",
+    "Fieldwork dates": "19-21 October, 2001"
+  },
+  {
+    "date": "18-11-2001",
+    "CON": 29,
+    "LAB": 46,
+    "LIB DEM": 19,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,004",
+    "Fieldwork dates": "16-18 November, 2001"
+  },
+  {
+    "date": "16-12-2001",
+    "CON": 29,
+    "LAB": 44,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,000",
+    "Fieldwork dates": "14-16 December, 2001"
+  },
+  {
+    "date": "20-01-2002",
+    "CON": 30,
+    "LAB": 45,
+    "LIB DEM": 19,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -15,
+    "Sample": "1,003",
+    "Fieldwork dates": "18-20 January, 2002"
+  },
+  {
+    "date": "17-02-2002",
+    "CON": 30,
+    "LAB": 47,
+    "LIB DEM": 18,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -17,
+    "Sample": "1,003",
+    "Fieldwork dates": "15-17 February, 2002"
+  },
+  {
+    "date": "17-03-2002",
+    "CON": 34,
+    "LAB": 43,
+    "LIB DEM": 17,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,001",
+    "Fieldwork dates": "15-17 March, 2002"
+  },
+  {
+    "date": "21-04-2002",
+    "CON": 29,
+    "LAB": 45,
+    "LIB DEM": 18,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -16,
+    "Sample": "1,000",
+    "Fieldwork dates": "19-21 April, 2002"
+  },
+  {
+    "date": "19-05-2002",
+    "CON": 34,
+    "LAB": 42,
+    "LIB DEM": 19,
+    "OTHER": 5,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,003",
+    "Fieldwork dates": "17-19 May, 2002"
+  },
+  {
+    "date": "23-06-2002",
+    "CON": 32,
+    "LAB": 42,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,002",
+    "Fieldwork dates": "21-23 June, 2002"
+  },
+  {
+    "date": "28-07-2002",
+    "CON": 33,
+    "LAB": 42,
+    "LIB DEM": 20,
+    "OTHER": 4,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,002",
+    "Fieldwork dates": "26-28 July, 2002"
+  },
+  {
+    "date": "25-08-2002",
+    "CON": 32,
+    "LAB": 41,
+    "LIB DEM": 21,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,003",
+    "Fieldwork dates": "23-25 August, 2002"
+  },
+  {
+    "date": "22-09-2002",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,000",
+    "Fieldwork dates": "20-22 September, 2002"
+  },
+  {
+    "date": "20-10-2002",
+    "CON": 32,
+    "LAB": 43,
+    "LIB DEM": 20,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -11,
+    "Sample": "1,001",
+    "Fieldwork dates": "18-20 October, 2002"
+  },
+  {
+    "date": "17-11-2002",
+    "CON": 29,
+    "LAB": 42,
+    "LIB DEM": 22,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,000",
+    "Fieldwork dates": "15-17 November, 2002"
+  },
+  {
+    "date": "15-12-2002",
+    "CON": 27,
+    "LAB": 41,
+    "LIB DEM": 23,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -14,
+    "Sample": "1,000",
+    "Fieldwork dates": "13-15 December, 2002"
+  },
+  {
+    "date": "19-01-2003",
+    "CON": 30,
+    "LAB": 43,
+    "LIB DEM": 21,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,002",
+    "Fieldwork dates": "17-19 January, 2003"
+  },
+  {
+    "date": "16-02-2003",
+    "CON": 31,
+    "LAB": 39,
+    "LIB DEM": 22,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,003",
+    "Fieldwork dates": "14-16 February, 2003"
+  },
+  {
+    "date": "16-03-2003",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 24,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,002",
+    "Fieldwork dates": "14-16 March, 2003"
+  },
+  {
+    "date": "19-04-2003",
+    "CON": 30,
+    "LAB": 42,
+    "LIB DEM": 21,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,000",
+    "Fieldwork dates": "17-19 April, 2003"
+  },
+  {
+    "date": "18-05-2003",
+    "CON": 29,
+    "LAB": 42,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -13,
+    "Sample": "1,000",
+    "Fieldwork dates": "16-18 May, 2003"
+  },
+  {
+    "date": "22-06-2003",
+    "CON": 34,
+    "LAB": 38,
+    "LIB DEM": 21,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,001",
+    "Fieldwork dates": "20-22 June, 2003"
+  },
+  {
+    "date": "20-07-2003",
+    "CON": 34,
+    "LAB": 36,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,001",
+    "Fieldwork dates": "18-20 July, 2003"
+  },
+  {
+    "date": "17-08-2003",
+    "CON": 32,
+    "LAB": 37,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,001",
+    "Fieldwork dates": "15-17 August, 2003"
+  },
+  {
+    "date": "21-09-2003",
+    "CON": 30,
+    "LAB": 35,
+    "LIB DEM": 28,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,002",
+    "Fieldwork dates": "19-21 September, 2003"
+  },
+  {
+    "date": "19-10-2003",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,004",
+    "Fieldwork dates": "17-19 October 2003"
+  },
+  {
+    "date": "16-11-2003",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,002",
+    "Fieldwork dates": "14-16 November 2003"
+  },
+  {
+    "date": "14-12-2003",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 22,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,001",
+    "Fieldwork dates": "12-14 December 2003"
+  },
+  {
+    "date": "18-01-2004",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,006",
+    "Fieldwork dates": "16-18 January, 2004"
+  },
+  {
+    "date": "22-02-2004",
+    "CON": 34,
+    "LAB": 36,
+    "LIB DEM": 21,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,006",
+    "Fieldwork dates": "20-22 February 2004"
+  },
+  {
+    "date": "11-03-2004",
+    "CON": 35,
+    "LAB": 37,
+    "LIB DEM": 21,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,014",
+    "Fieldwork dates": "10-11 March 2004"
+  },
+  {
+    "date": "18-04-2004",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 22,
+    "OTHER": 6,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,002",
+    "Fieldwork dates": "16-18 April 2004"
+  },
+  {
+    "date": "23-05-2004",
+    "CON": 33,
+    "LAB": 37,
+    "LIB DEM": 21,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,002",
+    "Fieldwork dates": "20-23 May 2004"
+  },
+  {
+    "date": "13-06-2004",
+    "CON": 31,
+    "LAB": 34,
+    "LIB DEM": 22,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,009",
+    "Fieldwork dates": "11-13 June 2004"
+  },
+  {
+    "date": "18-07-2004",
+    "CON": 30,
+    "LAB": 35,
+    "LIB DEM": 25,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,007",
+    "Fieldwork dates": "16-18 July 2004"
+  },
+  {
+    "date": "15-08-2004",
+    "CON": 33,
+    "LAB": 36,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,005",
+    "Fieldwork dates": "13-15 Augu 2004"
+  },
+  {
+    "date": "19-09-2004",
+    "CON": 32,
+    "LAB": 36,
+    "LIB DEM": 22,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,005",
+    "Fieldwork dates": "17-19 Sept 2004"
+  },
+  {
+    "date": "24-10-2004",
+    "CON": 31,
+    "LAB": 37,
+    "LIB DEM": 23,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,011",
+    "Fieldwork dates": "22nd-24 October 2004"
+  },
+  {
+    "date": "14-11-2004",
+    "CON": 30,
+    "LAB": 38,
+    "LIB DEM": 22,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,009",
+    "Fieldwork dates": "12-14 November 2004"
+  },
+  {
+    "date": "19-12-2004",
+    "CON": 31,
+    "LAB": 39,
+    "LIB DEM": 22,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,002",
+    "Fieldwork dates": "16-19 December 2004"
+  },
+  {
+    "date": "23-01-2005",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 21,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,000",
+    "Fieldwork dates": "21st-23 January 2005"
+  },
+  {
+    "date": "20-02-2005",
+    "CON": 34,
+    "LAB": 37,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,003",
+    "Fieldwork dates": "18-20 February 2005"
+  },
+  {
+    "date": "20-03-2005",
+    "CON": 32,
+    "LAB": 40,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,005",
+    "Fieldwork dates": "18-20 March 2005"
+  },
+  {
+    "date": "03-04-2005",
+    "CON": 34,
+    "LAB": 37,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,507",
+    "Fieldwork dates": "1-3 April, 2005"
+  },
+  {
+    "date": "12-04-2005",
+    "CON": 33,
+    "LAB": 39,
+    "LIB DEM": 22,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,524",
+    "Fieldwork dates": "10-12 April, 2005"
+  },
+  {
+    "date": "19-04-2005",
+    "CON": 33,
+    "LAB": 39,
+    "LIB DEM": 22,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,513",
+    "Fieldwork dates": "17-19 April, 2005"
+  },
+  {
+    "date": "26-04-2005",
+    "CON": 33,
+    "LAB": 40,
+    "LIB DEM": 20,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,547",
+    "Fieldwork dates": "24-26, April, 2005"
+  },
+  {
+    "date": "03-05-2005",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 22,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,532",
+    "Fieldwork dates": "1-3 May, 2005"
+  },
+  {
+    "date": "05-05-2005",
+    "CON": 33.2,
+    "LAB": 36.2,
+    "LIB DEM": 22.6,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "GENERAL ELECTION RESULT - 5 May, 2005",
+    "Fieldwork dates": ""
+  },
+  {
+    "date": "19-06-2005",
+    "CON": 31,
+    "LAB": 38,
+    "LIB DEM": 23,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,005",
+    "Fieldwork dates": "17-19 June, 2005"
+  },
+  {
+    "date": "17-07-2005",
+    "CON": 31,
+    "LAB": 39,
+    "LIB DEM": 23,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,005",
+    "Fieldwork dates": "15-17 July, 2005"
+  },
+  {
+    "date": "14-08-2005",
+    "CON": 31,
+    "LAB": 38,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,006",
+    "Fieldwork dates": "12-14 August, 2005"
+  },
+  {
+    "date": "17-09-2005",
+    "CON": 31,
+    "LAB": 40,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -9,
+    "Sample": "1,013",
+    "Fieldwork dates": "16-17 September, 2005"
+  },
+  {
+    "date": "20-10-2005",
+    "CON": 33,
+    "LAB": 36,
+    "LIB DEM": 22,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,007",
+    "Fieldwork dates": "19-20 October, 2005"
+  },
+  {
+    "date": "20-11-2005",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 19,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,013",
+    "Fieldwork dates": "18-20 November, 2005"
+  },
+  {
+    "date": "18-12-2005",
+    "CON": 37,
+    "LAB": 35,
+    "LIB DEM": 21,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,004",
+    "Fieldwork dates": "15-18 December, 2005"
+  },
+  {
+    "date": "22-01-2006",
+    "CON": 37,
+    "LAB": 36,
+    "LIB DEM": 19,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,009",
+    "Fieldwork dates": "20-22 January 2006"
+  },
+  {
+    "date": "19-02-2006",
+    "CON": 37,
+    "LAB": 34,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "1,002",
+    "Fieldwork dates": "17-19 February 2006"
+  },
+  {
+    "date": "12-03-2006",
+    "CON": 34,
+    "LAB": 37,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,006",
+    "Fieldwork dates": "10-12 March 2006"
+  },
+  {
+    "date": "23-04-2006",
+    "CON": 34,
+    "LAB": 32,
+    "LIB DEM": 24,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,006",
+    "Fieldwork dates": "21-23 April 2006"
+  },
+  {
+    "date": "21-05-2006",
+    "CON": 38,
+    "LAB": 34,
+    "LIB DEM": 20,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,001",
+    "Fieldwork dates": "19-21 May 2006"
+  },
+  {
+    "date": "18-06-2006",
+    "CON": 37,
+    "LAB": 32,
+    "LIB DEM": 21,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,005",
+    "Fieldwork dates": "16-18 June 2006"
+  },
+  {
+    "date": "23-07-2006",
+    "CON": 39,
+    "LAB": 35,
+    "LIB DEM": 17,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,001",
+    "Fieldwork dates": "21-23 July 2006"
+  },
+  {
+    "date": "20-08-2006",
+    "CON": 40,
+    "LAB": 31,
+    "LIB DEM": 22,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,007",
+    "Fieldwork dates": "18-20 Augu 2006"
+  },
+  {
+    "date": "20-09-2006",
+    "CON": 36,
+    "LAB": 32,
+    "LIB DEM": 22,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,066",
+    "Fieldwork dates": "19-20 September 2006"
+  },
+  {
+    "date": "22-10-2006",
+    "CON": 39,
+    "LAB": 29,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 10,
+    "Sample": "1,019",
+    "Fieldwork dates": "20-22 October 2006"
+  },
+  {
+    "date": "19-11-2006",
+    "CON": 37,
+    "LAB": 32,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,000",
+    "Fieldwork dates": "17-19 November, 2006"
+  },
+  {
+    "date": "17-12-2006",
+    "CON": 40,
+    "LAB": 32,
+    "LIB DEM": 18,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 8,
+    "Sample": "1,006",
+    "Fieldwork dates": "15-17 December 2006"
+  },
+  {
+    "date": "21-01-2007",
+    "CON": 37,
+    "LAB": 31,
+    "LIB DEM": 23,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "1,004",
+    "Fieldwork dates": "19-21 January 2007"
+  },
+  {
+    "date": "18-02-2007",
+    "CON": 40,
+    "LAB": 31,
+    "LIB DEM": 19,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,000",
+    "Fieldwork dates": "16-18 February 2007"
+  },
+  {
+    "date": "18-03-2007",
+    "CON": 41,
+    "LAB": 31,
+    "LIB DEM": 18,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 10,
+    "Sample": "1,011",
+    "Fieldwork dates": "16-18 March 2007"
+  },
+  {
+    "date": "22-04-2007",
+    "CON": 37,
+    "LAB": 30,
+    "LIB DEM": 21,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": 7,
+    "Sample": "1,005",
+    "Fieldwork dates": "20-22 April 2007"
+  },
+  {
+    "date": "20-05-2007",
+    "CON": 34,
+    "LAB": 32,
+    "LIB DEM": 21,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,003",
+    "Fieldwork dates": "18-20 May 2007"
+  },
+  {
+    "date": "29-06-2007",
+    "CON": 35,
+    "LAB": 39,
+    "LIB DEM": 18,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,005",
+    "Fieldwork dates": "27-29 June, 2007"
+  },
+  {
+    "date": "22-07-2007",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 20,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,005",
+    "Fieldwork dates": "20-22 July 2007"
+  },
+  {
+    "date": "23-08-2007",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 18,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,016",
+    "Fieldwork dates": "22-23 August, 2007"
+  },
+  {
+    "date": "16-09-2007",
+    "CON": 32,
+    "LAB": 40,
+    "LIB DEM": 20,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,005",
+    "Fieldwork dates": "13-16 September, 2007"
+  },
+  {
+    "date": "04-10-2007",
+    "CON": 38,
+    "LAB": 38,
+    "LIB DEM": 16,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,008",
+    "Fieldwork dates": "3-4 October, 2007"
+  },
+  {
+    "date": "28-10-2007",
+    "CON": 40,
+    "LAB": 35,
+    "LIB DEM": 18,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,011",
+    "Fieldwork dates": "26-28 October, 2007"
+  },
+  {
+    "date": "22-11-2007",
+    "CON": 37,
+    "LAB": 31,
+    "LIB DEM": 21,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "1,005",
+    "Fieldwork dates": "21-22 Nov 2007"
+  },
+  {
+    "date": "19-12-2007",
+    "CON": 39,
+    "LAB": 34,
+    "LIB DEM": 18,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,004",
+    "Fieldwork dates": "18-19 Dec 2007"
+  },
+  {
+    "date": "20-01-2008",
+    "CON": 37,
+    "LAB": 35,
+    "LIB DEM": 20,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,009",
+    "Fieldwork dates": "18-20 Jan 2008"
+  },
+  {
+    "date": "17-02-2008",
+    "CON": 37,
+    "LAB": 34,
+    "LIB DEM": 21,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "1,003",
+    "Fieldwork dates": "15-17 Feb 2008"
+  },
+  {
+    "date": "16-03-2008",
+    "CON": 42,
+    "LAB": 29,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 13,
+    "Sample": "1,003",
+    "Fieldwork dates": "14-16 Mar 2008"
+  },
+  {
+    "date": "20-04-2008",
+    "CON": 39,
+    "LAB": 34,
+    "LIB DEM": 19,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,000",
+    "Fieldwork dates": "18-20 Apr 2008"
+  },
+  {
+    "date": "18-05-2008",
+    "CON": 41,
+    "LAB": 27,
+    "LIB DEM": 22,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 14,
+    "Sample": "1,008",
+    "Fieldwork dates": "16-18 May 2008"
+  },
+  {
+    "date": "22-06-2008",
+    "CON": 45,
+    "LAB": 25,
+    "LIB DEM": 20,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 20,
+    "Sample": "1,000",
+    "Fieldwork dates": "20-22 June 2008"
+  },
+  {
+    "date": "20-07-2008",
+    "CON": 43,
+    "LAB": 28,
+    "LIB DEM": 19,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 15,
+    "Sample": "1,007",
+    "Fieldwork dates": "18-20 July 2008"
+  },
+  {
+    "date": "17-08-2008",
+    "CON": 44,
+    "LAB": 29,
+    "LIB DEM": 19,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 15,
+    "Sample": "1,005",
+    "Fieldwork dates": "15-17 Augu 2008"
+  },
+  {
+    "date": "25-09-2008",
+    "CON": 41,
+    "LAB": 32,
+    "LIB DEM": 18,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,012",
+    "Fieldwork dates": "24-25 September 2008"
+  },
+  {
+    "date": "19-10-2008",
+    "CON": 42,
+    "LAB": 30,
+    "LIB DEM": 21,
+    "OTHER": 7,
+    "CON LEAD OVER LABOUR": 12,
+    "Sample": "1,007",
+    "Fieldwork dates": "17-19 October 2008"
+  },
+  {
+    "date": "26-11-2008",
+    "CON": 45,
+    "LAB": 30,
+    "LIB DEM": 18,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 15,
+    "Sample": "1,027",
+    "Fieldwork dates": "25-26 November 2008"
+  },
+  {
+    "date": "14-12-2008",
+    "CON": 38,
+    "LAB": 33,
+    "LIB DEM": 19,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,003",
+    "Fieldwork dates": "12-14 December 2008"
+  },
+  {
+    "date": "25-01-2009",
+    "CON": 44,
+    "LAB": 32,
+    "LIB DEM": 16,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 12,
+    "Sample": "1,003",
+    "Fieldwork dates": "24-25 January 2009"
+  },
+  {
+    "date": "15-03-2009",
+    "CON": 42,
+    "LAB": 30,
+    "LIB DEM": 20,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 12,
+    "Sample": "1,004",
+    "Fieldwork dates": "13-15 March, 2009"
+  },
+  {
+    "date": "19-04-2009",
+    "CON": 40,
+    "LAB": 30,
+    "LIB DEM": 19,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": 10,
+    "Sample": "1,005",
+    "Fieldwork dates": "17-19 April 2009"
+  },
+  {
+    "date": "17-05-2009",
+    "CON": 39,
+    "LAB": 28,
+    "LIB DEM": 20,
+    "OTHER": 14,
+    "CON LEAD OVER LABOUR": 11,
+    "Sample": "1,002",
+    "Fieldwork dates": "5-17 May 2009"
+  },
+  {
+    "date": "14-06-2009",
+    "CON": 39,
+    "LAB": 27,
+    "LIB DEM": 18,
+    "OTHER": 15,
+    "CON LEAD OVER LABOUR": 12,
+    "Sample": "1,006",
+    "Fieldwork dates": "12-14 June 2009"
+  },
+  {
+    "date": "11-07-2009",
+    "CON": 41,
+    "LAB": 27,
+    "LIB DEM": 20,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": 14,
+    "Sample": "1,000",
+    "Fieldwork dates": "10-11 July 2009"
+  },
+  {
+    "date": "23-08-2009",
+    "CON": 42,
+    "LAB": 25,
+    "LIB DEM": 19,
+    "OTHER": 15,
+    "CON LEAD OVER LABOUR": 17,
+    "Sample": "1,004",
+    "Fieldwork dates": "21-23 Augu 2009"
+  },
+  {
+    "date": "20-09-2009",
+    "CON": 43,
+    "LAB": 26,
+    "LIB DEM": 19,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": 17,
+    "Sample": "1,001",
+    "Fieldwork dates": "18-20 September 2009"
+  },
+  {
+    "date": "18-10-2009",
+    "CON": 44,
+    "LAB": 27,
+    "LIB DEM": 18,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": 17,
+    "Sample": "1,002",
+    "Fieldwork dates": "16-18 October 2009"
+  },
+  {
+    "date": "15-11-2009",
+    "CON": 42,
+    "LAB": 29,
+    "LIB DEM": 19,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 13,
+    "Sample": "1,010",
+    "Fieldwork dates": "13-15 November 2009"
+  },
+  {
+    "date": "13-12-2009",
+    "CON": 40,
+    "LAB": 31,
+    "LIB DEM": 18,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,009",
+    "Fieldwork dates": "11-13 December 2009"
+  },
+  {
+    "date": "24-01-2010",
+    "CON": 40,
+    "LAB": 29,
+    "LIB DEM": 21,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 11,
+    "Sample": "1,000",
+    "Fieldwork dates": "22-24 January 2010"
+  },
+  {
+    "date": "21-02-2010",
+    "CON": 37,
+    "LAB": 30,
+    "LIB DEM": 20,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": 7,
+    "Sample": "1,004",
+    "Fieldwork dates": "19-21 February 2010"
+  },
+  {
+    "date": "14-03-2010",
+    "CON": 40,
+    "LAB": 31,
+    "LIB DEM": 20,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,002",
+    "Fieldwork dates": "12-14 March 2010"
+  },
+  {
+    "date": "31-03-2010",
+    "CON": 38,
+    "LAB": 29,
+    "LIB DEM": 23,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 9,
+    "Sample": "1,003",
+    "Fieldwork dates": "30-31 March 2010"
+  },
+  {
+    "date": "03-04-2010",
+    "CON": 37,
+    "LAB": 33,
+    "LIB DEM": 21,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,001",
+    "Fieldwork dates": "1-3 April 2010"
+  },
+  {
+    "date": "11-04-2010",
+    "CON": 37,
+    "LAB": 31,
+    "LIB DEM": 20,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "1,001",
+    "Fieldwork dates": "9-11 April 2010"
+  },
+  {
+    "date": "18-04-2010",
+    "CON": 33,
+    "LAB": 28,
+    "LIB DEM": 30,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,024",
+    "Fieldwork dates": "16-18 April 2010"
+  },
+  {
+    "date": "25-04-2010",
+    "CON": 33,
+    "LAB": 28,
+    "LIB DEM": 30,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,031",
+    "Fieldwork dates": "23-25 April 2010"
+  },
+  {
+    "date": "02-05-2010",
+    "CON": 33,
+    "LAB": 28,
+    "LIB DEM": 28,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,026",
+    "Fieldwork dates": "30 April - 2 May 2010"
+  },
+  {
+    "date": "04-05-2010",
+    "CON": 36,
+    "LAB": 28,
+    "LIB DEM": 26,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 8,
+    "Sample": "2,022",
+    "Fieldwork dates": "3-4 May 2010"
+  },
+  {
+    "date": "06-05-2010",
+    "CON": 36.45,
+    "LAB": 29.01,
+    "LIB DEM": 23.03,
+    "OTHER": 11.95,
+    "CON LEAD OVER LABOUR": 7,
+    "Sample": "GENERAL ELECTION RESULT - 6 May, 2010",
+    "Fieldwork dates": ""
+  },
+  {
+    "date": "23-05-2010",
+    "CON": 39,
+    "LAB": 32,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 7,
+    "Sample": "1,001",
+    "Fieldwork dates": "21-23 May 2010"
+  },
+  {
+    "date": "20-06-2010",
+    "CON": 39,
+    "LAB": 31,
+    "LIB DEM": 21,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 8,
+    "Sample": "1,000",
+    "Fieldwork dates": "18-20 June 2010"
+  },
+  {
+    "date": "25-07-2010",
+    "CON": 38,
+    "LAB": 34,
+    "LIB DEM": 19,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,009",
+    "Fieldwork dates": "23-25 July 2010"
+  },
+  {
+    "date": "15-08-2010",
+    "CON": 37,
+    "LAB": 37,
+    "LIB DEM": 18,
+    "OTHER": 8,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,001",
+    "Fieldwork dates": "13th-15th August 2010"
+  },
+  {
+    "date": "29-09-2010",
+    "CON": 35,
+    "LAB": 37,
+    "LIB DEM": 18,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,005",
+    "Fieldwork dates": "28-29 September 2010"
+  },
+  {
+    "date": "24-10-2010",
+    "CON": 39,
+    "LAB": 36,
+    "LIB DEM": 16,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "1,005",
+    "Fieldwork dates": "22-24 October 2010"
+  },
+  {
+    "date": "21-11-2010",
+    "CON": 36,
+    "LAB": 38,
+    "LIB DEM": 14,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,000",
+    "Fieldwork dates": "19-21 November 2010"
+  },
+  {
+    "date": "19-12-2010",
+    "CON": 37,
+    "LAB": 39,
+    "LIB DEM": 13,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,003",
+    "Fieldwork dates": "16-19 December 2010"
+  },
+  {
+    "date": "23-01-2011",
+    "CON": 35,
+    "LAB": 39,
+    "LIB DEM": 15,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,000",
+    "Fieldwork dates": "21-23 January 2011"
+  },
+  {
+    "date": "20-02-2011",
+    "CON": 35,
+    "LAB": 38,
+    "LIB DEM": 18,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,000",
+    "Fieldwork dates": "21-23 February 2011"
+  },
+  {
+    "date": "24-03-2011",
+    "CON": 37,
+    "LAB": 36,
+    "LIB DEM": 16,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,000",
+    "Fieldwork dates": "23-24 March 2011"
+  },
+  {
+    "date": "17-04-2011",
+    "CON": 35,
+    "LAB": 37,
+    "LIB DEM": 15,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,003",
+    "Fieldwork dates": "15-17 April 2011"
+  },
+  {
+    "date": "03-05-2011",
+    "CON": 36,
+    "LAB": 37,
+    "LIB DEM": 15,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "1,000",
+    "Fieldwork dates": "2-3 May 2011"
+  },
+  {
+    "date": "19-06-2011",
+    "CON": 37,
+    "LAB": 39,
+    "LIB DEM": 12,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,000",
+    "Fieldwork dates": "17-19 June 2011"
+  },
+  {
+    "date": "17-07-2011",
+    "CON": 37,
+    "LAB": 36,
+    "LIB DEM": 16,
+    "OTHER": 11,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,003",
+    "Fieldwork dates": "15th-17th July 2011"
+  },
+  {
+    "date": "21-08-2011",
+    "CON": 37,
+    "LAB": 36,
+    "LIB DEM": 17,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,004",
+    "Fieldwork dates": "19th-21st August 2011"
+  },
+  {
+    "date": "21-09-2011",
+    "CON": 37,
+    "LAB": 38,
+    "LIB DEM": 14,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "1,007",
+    "Fieldwork dates": "20-21st September 2011"
+  },
+  {
+    "date": "23-10-2011",
+    "CON": 35,
+    "LAB": 39,
+    "LIB DEM": 13,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,003",
+    "Fieldwork dates": "21-23rd October 2011"
+  },
+  {
+    "date": "20-11-2011",
+    "CON": 36,
+    "LAB": 38,
+    "LIB DEM": 14,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,005",
+    "Fieldwork dates": "18-20th November 2011"
+  },
+  {
+    "date": "21-12-2011",
+    "CON": 37,
+    "LAB": 36,
+    "LIB DEM": 15,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,003",
+    "Fieldwork dates": "20-21 December 2011"
+  },
+  {
+    "date": "22-01-2012",
+    "CON": 40,
+    "LAB": 35,
+    "LIB DEM": 16,
+    "OTHER": 9,
+    "CON LEAD OVER LABOUR": 5,
+    "Sample": "1,003",
+    "Fieldwork dates": "20-22 January 2012"
+  },
+  {
+    "date": "19-02-2012",
+    "CON": 36,
+    "LAB": 37,
+    "LIB DEM": 14,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "1,013",
+    "Fieldwork dates": "17-19 February 2012"
+  },
+  {
+    "date": "18-03-2012",
+    "CON": 39,
+    "LAB": 36,
+    "LIB DEM": 15,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "1,000",
+    "Fieldwork dates": "16-18 March 2012"
+  },
+  {
+    "date": "22-04-2012",
+    "CON": 33,
+    "LAB": 41,
+    "LIB DEM": 15,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,000",
+    "Fieldwork dates": "20-22 April 2012"
+  },
+  {
+    "date": "20-05-2012",
+    "CON": 36,
+    "LAB": 41,
+    "LIB DEM": 11,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,002",
+    "Fieldwork dates": "18-20 May 2012"
+  },
+  {
+    "date": "24-06-2012",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 14,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,002",
+    "Fieldwork dates": "22-24 June 2012"
+  },
+  {
+    "date": "22-07-2012",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 14,
+    "OTHER": 13,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,004",
+    "Fieldwork dates": "20-22 July 2012"
+  },
+  {
+    "date": "26-08-2012",
+    "CON": 34,
+    "LAB": 39,
+    "LIB DEM": 15,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,006",
+    "Fieldwork dates": "24-26 August 2012"
+  },
+  {
+    "date": "23-09-2012",
+    "CON": 31,
+    "LAB": 41,
+    "LIB DEM": 14,
+    "OTHER": 14,
+    "CON LEAD OVER LABOUR": -10,
+    "Sample": "1,004",
+    "Fieldwork dates": "20-2 July 2012"
+  },
+  {
+    "date": "22-10-2012",
+    "CON": 33,
+    "LAB": 41,
+    "LIB DEM": 14,
+    "OTHER": 12,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,000",
+    "Fieldwork dates": "19-22 October 2012"
+  },
+  {
+    "date": "18-11-2012",
+    "CON": 32,
+    "LAB": 40,
+    "LIB DEM": 13,
+    "OTHER": 15,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,001",
+    "Fieldwork dates": "16-18 November 2012"
+  },
+  {
+    "date": "23-12-2012",
+    "CON": 32,
+    "LAB": 40,
+    "LIB DEM": 13,
+    "OTHER": 16,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,002",
+    "Fieldwork dates": "19-23 December 2012"
+  },
+  {
+    "date": "20-01-2013",
+    "CON": 33,
+    "LAB": 38,
+    "LIB DEM": 15,
+    "OTHER": 14,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,001",
+    "Fieldwork dates": "18-20th January 2013"
+  },
+  {
+    "date": "10-02-2013",
+    "CON": 29,
+    "LAB": 41,
+    "LIB DEM": 13,
+    "OTHER": 16,
+    "CON LEAD OVER LABOUR": -12,
+    "Sample": "1,001",
+    "Fieldwork dates": "8-10th February 2013"
+  },
+  {
+    "date": "10-03-2013",
+    "CON": 31,
+    "LAB": 39,
+    "LIB DEM": 15,
+    "OTHER": 15,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,002",
+    "Fieldwork dates": "8th-10th March 2013"
+  },
+  {
+    "date": "14-04-2013",
+    "CON": 32,
+    "LAB": 38,
+    "LIB DEM": 15,
+    "OTHER": 16,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,002",
+    "Fieldwork dates": "12th-14th April 2013"
+  },
+  {
+    "date": "12-05-2013",
+    "CON": 28,
+    "LAB": 34,
+    "LIB DEM": 11,
+    "OTHER": 27,
+    "CON LEAD OVER LABOUR": -6,
+    "Sample": "1,001",
+    "Fieldwork dates": "10th-12th May 2013"
+  },
+  {
+    "date": "09-06-2013",
+    "CON": 29,
+    "LAB": 36,
+    "LIB DEM": 12,
+    "OTHER": 22,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,002",
+    "Fieldwork dates": "7th-9th June 2013"
+  },
+  {
+    "date": "15-07-2013",
+    "CON": 36,
+    "LAB": 36,
+    "LIB DEM": 13,
+    "OTHER": 15,
+    "CON LEAD OVER LABOUR": 0,
+    "Sample": "1,003",
+    "Fieldwork dates": "12th-14th July 2013"
+  },
+  {
+    "date": "11-08-2013",
+    "CON": 32,
+    "LAB": 35,
+    "LIB DEM": 14,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,001",
+    "Fieldwork dates": "9-11 August 2013"
+  },
+  {
+    "date": "15-09-2013",
+    "CON": 32,
+    "LAB": 36,
+    "LIB DEM": 14,
+    "OTHER": 10,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,001",
+    "Fieldwork dates": "13-15 September 2013"
+  },
+  {
+    "date": "13-10-2013",
+    "CON": 34,
+    "LAB": 38,
+    "LIB DEM": 12,
+    "OTHER": 16,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,004",
+    "Fieldwork dates": "11-13th October 2013"
+  },
+  {
+    "date": "10-11-2013",
+    "CON": 30,
+    "LAB": 38,
+    "LIB DEM": 13,
+    "OTHER": 20,
+    "CON LEAD OVER LABOUR": -8,
+    "Sample": "1,004",
+    "Fieldwork dates": "8-10th November 2013"
+  },
+  {
+    "date": "08-12-2013",
+    "CON": 32,
+    "LAB": 37,
+    "LIB DEM": 12,
+    "OTHER": 18,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,001",
+    "Fieldwork dates": "6-8th December 2013"
+  },
+  {
+    "date": "12-01-2014",
+    "CON": 32,
+    "LAB": 35,
+    "LIB DEM": 14,
+    "OTHER": 19,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,005",
+    "Fieldwork dates": "10-12 January 2014"
+  },
+  {
+    "date": "09-02-2014",
+    "CON": 34,
+    "LAB": 38,
+    "LIB DEM": 10,
+    "OTHER": 19,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,002",
+    "Fieldwork dates": "7-9 February 2014"
+  },
+  {
+    "date": "11-03-2014",
+    "CON": 35,
+    "LAB": 38,
+    "LIB DEM": 12,
+    "OTHER": 16,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,003",
+    "Fieldwork dates": "7-11 March 2014"
+  },
+  {
+    "date": "13-04-2014",
+    "CON": 32,
+    "LAB": 37,
+    "LIB DEM": 12,
+    "OTHER": 19,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,000",
+    "Fieldwork dates": "11-13 April 2014"
+  },
+  {
+    "date": "11-05-2014",
+    "CON": 33,
+    "LAB": 31,
+    "LIB DEM": 13,
+    "OTHER": 24,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,000",
+    "Fieldwork dates": "9-11 May 2014"
+  },
+  {
+    "date": "15-06-2014",
+    "CON": 31,
+    "LAB": 32,
+    "LIB DEM": 10,
+    "OTHER": 27,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "",
+    "Fieldwork dates": "13-15 June 2014"
+  },
+  {
+    "date": "13-07-2014",
+    "CON": 34,
+    "LAB": 33,
+    "LIB DEM": 12,
+    "OTHER": 27,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,000",
+    "Fieldwork dates": "11-13 July 2014"
+  },
+  {
+    "date": "10-08-2014",
+    "CON": 31,
+    "LAB": 38,
+    "LIB DEM": 12,
+    "OTHER": 19,
+    "CON LEAD OVER LABOUR": -7,
+    "Sample": "1,002",
+    "Fieldwork dates": "8-10 August 2014"
+  },
+  {
+    "date": "14-09-2014",
+    "CON": 33,
+    "LAB": 35,
+    "LIB DEM": 10,
+    "OTHER": 22,
+    "CON LEAD OVER LABOUR": -2,
+    "Sample": "1,002",
+    "Fieldwork dates": "12-14 September 2014"
+  },
+  {
+    "date": "12-10-2014",
+    "CON": 31,
+    "LAB": 35,
+    "LIB DEM": 11,
+    "OTHER": 24,
+    "CON LEAD OVER LABOUR": -4,
+    "Sample": "1,001",
+    "Fieldwork dates": "10-12 October 2014"
+  },
+  {
+    "date": "09-11-2014",
+    "CON": 31,
+    "LAB": 32,
+    "LIB DEM": 11,
+    "OTHER": 26,
+    "CON LEAD OVER LABOUR": -1,
+    "Sample": "1,002",
+    "Fieldwork dates": "7-9 November 2014"
+  },
+  {
+    "date": "16-12-2014",
+    "CON": 28,
+    "LAB": 33,
+    "LIB DEM": 14,
+    "OTHER": 25,
+    "CON LEAD OVER LABOUR": -5,
+    "Sample": "1,001",
+    "Fieldwork dates": "12-16 December 2014"
+  },
+  {
+    "date": "19-01-2015",
+    "CON": 30,
+    "LAB": 33,
+    "LIB DEM": 11,
+    "OTHER": 27,
+    "CON LEAD OVER LABOUR": -3,
+    "Sample": "1,002",
+    "Fieldwork dates": "16–19 January 2015"
+  },
+  {
+    "date": "15-02-2015",
+    "CON": 36,
+    "LAB": 32,
+    "LIB DEM": 10,
+    "OTHER": 22,
+    "CON LEAD OVER LABOUR": 4,
+    "Sample": "1,000",
+    "Fieldwork dates": "13-15 February 2015"
+  },
+  {
+    "date": "15-03-2015",
+    "CON": 36,
+    "LAB": 35,
+    "LIB DEM": 8,
+    "OTHER": 21,
+    "CON LEAD OVER LABOUR": 1,
+    "Sample": "1,001",
+    "Fieldwork dates": "13-15 March 2015"
+  },
+  {
+    "date": "12-04-2015",
+    "CON": 39,
+    "LAB": 33,
+    "LIB DEM": 8,
+    "OTHER": 19,
+    "CON LEAD OVER LABOUR": 6,
+    "Sample": "1,042",
+    "Fieldwork dates": "10-12 April 2015"
+  },
+  {
+    "date": "19-04-2015",
+    "CON": 34,
+    "LAB": 32,
+    "LIB DEM": 10,
+    "OTHER": 24,
+    "CON LEAD OVER LABOUR": 2,
+    "Sample": "1,003",
+    "Fieldwork dates": "17-19 April 2015"
+  },
+  {
+    "date": "26-04-2015",
+    "CON": 35,
+    "LAB": 32,
+    "LIB DEM": 9,
+    "OTHER": 24,
+    "CON LEAD OVER LABOUR": 3,
+    "Sample": "1,004",
+    "Fieldwork dates": "24-26 April 2015"
+  }
+]
