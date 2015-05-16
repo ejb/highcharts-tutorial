@@ -310,11 +310,13 @@ Enough from me -- it's your turn to write some code. Try making these changes to
 - [Highcharts general documentation](http://www.highcharts.com/docs) - helpful for beginners, but not comprehensive
 - [Highcharts API documentation](http://api.highcharts.com/highcharts) - the source of all knowledge!
 - [Highcharts examples](http://www.highcharts.com/demo) - get a taste of what's possible.
-- [What Greece Owes When]() - an interactive I made. The chart at the top is built with Highcharts.
+- [What Greece Owes When](http://graphics.wsj.com/greece-debt-timeline/) - an interactive I made. The chart at the top is built with Highcharts.
 
 ## Challenge round answers
 
-1. To change the chart's colours, just replace the hex codes in this line:
+### 1. Change the chart's colours
+
+ To change the chart's colours, just replace the hex codes in this line:
 
 ```js
 colors: ['#03529E', '#9E0400', '#FDB009']
@@ -322,7 +324,9 @@ colors: ['#03529E', '#9E0400', '#FDB009']
 
 You can use any CSS-compatible colour, like `rgb(178, 55, 233)` or `hsl(132, 94%, 39%)`. [More info on colours here](http://api.highcharts.com/highcharts#colors).
 
-2. A "shared tooltip" is easy to configure. Just add this to your configuration object. Be careful with commas - you may need to add one before and/or after, depending on where you place it in your code.
+### 2. Use a shared tooltip for all three lines
+
+A "shared tooltip" is easy to configure. Just add this to your configuration object. Be careful with commas - you may need to add one before and/or after, depending on where you place it in your code.
 
 ```js
 tooltip: {
@@ -332,7 +336,9 @@ tooltip: {
 
 [More info on shared tooltips here](http://api.highcharts.com/highcharts#tooltip.shared).
 
-3. Don't worry, this one is difficult. I had to rely on the API reference to solve my own challenge! We need to add a `plotBand` to the `xAxis` like so:
+### 3. Shade the time period when New Labour were in power
+
+We need to add `plotBands` to the `xAxis` like so:
 
 ```js
     // ...
