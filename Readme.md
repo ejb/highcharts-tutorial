@@ -1,1 +1,1 @@
-## [Tutorial is here](blob/master/tutorial.md)
+## Tutorial is here: [tutorial.md](tutorial.md)
