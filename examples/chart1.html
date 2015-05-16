@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Chart</title>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+</head>
+<body>
+  <div id="container" style="height: 400px;"></div>
+  <script src="http://code.highcharts.com/highcharts.js"></script>
+  <script type="text/javascript">
+
+  $('#container').highcharts({
+    chart: {
+      type: 'column'
+    },
+    credits: {
+      enabled: false
+    },
+    title: {
+      text: 'Results of the 2015 U.K. general election'
+    },
+    xAxis: {
+      categories: ['CON', 'LAB', 'SNP', 'LD', 'OTHER']
+    },
+    yAxis: {
+      title: null,
+      labels: {
+        formatter: function(){
+          if (this.isLast){
+            return this.value+' seats';
+          }
+          return this.value;
+        }
+      },
+      plotLines: [{
+        value: 323,
+        color: '#aaa',
+        dashStyle : 'shortdash',
+        width: 1,
+        label : {
+          text : 'Majority (323 seats)',
+          align: 'right'
+        }
+      }]
+    },
+    legend: {
+      enabled: false
+    },
+    colors: ['#03529E', '#9E0400', '#EFF309', '#FDB009', '#999'],
+    plotOptions: {
+      series: {
+        colorByPoint: true
+      }
+    },
+    series: [{
+      data: [331, 232, 56, 8, 23]
+    }]
+  });
+
+  </script>
+</body>
+</html>

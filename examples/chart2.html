@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Chart two</title>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+</head>
+<body>
+  <div id="container" style="height: 400px;"></div>
+  <script src="http://code.highcharts.com/highcharts.js"></script>
+  <script type="text/javascript">
+
+  // NOTE: the poll-data.json file needs to be in the same folder as this file
+  $.getJSON('poll-data.json', function(data){
+
+    // create three empty series to add our data into
+    var highchartsFormat = [
+      {
+        name: "Conservatives",
+        data: []
+      },
+      {
+        name: "Labour",
+        data: []
+      },
+      {
+        name: "Liberal Democrats",
+        data: []
+      }
+    ];
+  
+    // loop through each line of the spreadsheet...
+    $.each(data, function(i,  row){
+      // .. create a Unix timestamp for each row ... 
+      var dateArr = row.date.split('-');
+      var timestamp = Date.UTC( +dateArr[2], +dateArr[1]-1, +dateArr[0] );
+      // ... and add to the Highcharts-formatted data object
+      highchartsFormat[0].data.push([ timestamp, row["CON"] ]);
+      highchartsFormat[1].data.push([ timestamp, row["LAB"] ]);
+      highchartsFormat[2].data.push([ timestamp, row["LIB DEM"] ]);
+    });
+
+    // then create the chart
+    $('#container').highcharts({
+      series: highchartsFormat,
+      xAxis: {
+        type: 'datetime'    // required, or the x axis is rendered as numbers
+      },
+      credits: {
+        enabled: false    // removes Highcharts.com in bottom
+      },
+      title: {
+        text: 'Guardian/ICM poll results over time'
+      },
+      yAxis: {
+        title: null, // disables unnecessary title on y axis
+        labels: {
+          formatter: function(){            // this function is run once for each label
+            if (this.isLast){
+              return this.value+'%';        // add % sign to the top y axis label
+            }
+            return this.value;
+          }
+        }
+      },
+      colors: ['#03529E', '#9E0400', '#FDB009']     // set party colours
+    });
+
+  });
+
+  </script>
+</body>
+</html>
