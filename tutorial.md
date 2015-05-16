@@ -40,7 +40,7 @@ $('#container').highcharts({
 
 Here's how it should look:
 
-![](chart1.png)
+![](master/img/results-chart-1.png)
 
 You've probably noticed that Highcharts has added many questionable elements by default:
 - A legend, even when there's only one series
@@ -50,7 +50,7 @@ You've probably noticed that Highcharts has added many questionable elements by 
 
 ... plus, because we didn't specify a chart type, it's visualised the data as a line chart.
 
-All of these default settings can be overridden; and they should be, because this is a darn ugly chart.
+All of these default settings can be overridden; and they should be, because this is a useless and ugly chart.
 
 Highcharts requires the use of [JavaScript configuration objects](http://javascript.info/tutorial/objects) to  change these default settings. If you've ever used jQuery's [$.ajax](http://jqfundamentals.com/chapter/ajax-deferreds) or [ANOTHER EXAMPLE], you've used configuration objects. Highcharts takes them configuration objects to another level; my objects can span hundreds of lines (even without the data!).
 
@@ -242,6 +242,10 @@ Here's our final code:
 </html>
 ```
 
+And here's how it should look.
+
+![](master/img/results-chart-2.png)
+
 ## Working with dates
 
 Wrangling data into a Highcharts-compatible format is often half the battle, especially when it comes to time series data.
@@ -325,7 +329,7 @@ $.getJSON('poll-data.json', function(data){
 
 You should see something a bit like this:
 
-![](img/polls-chart-1.png)
+![](master/img/polls-chart-1.png)
 
 A damn ugly chart, but at least the data is in there. Let's clean things up.
 
