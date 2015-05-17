@@ -2,7 +2,7 @@
 
 Highcharts is a useful JavaScript library for producing [a range of different charts](http://www.highcharts.com/demo) with minimal configuration. In this tutorial, we'll be covering how to create a basic bar and line charts and how to customise them.
 
-Important note: Highcharts is free only for non-commercial use. If you want to use it in your publication, [you'll need to buy a license](http://www.highcharts.com/products/highcharts).
+> **Important note:** Highcharts is free only for non-commercial use. If you want to use it in your publication, [you'll need to buy a license](http://www.highcharts.com/products/highcharts).
 
 ## Your first highchart
 
@@ -210,7 +210,7 @@ $.getJSON('poll-data.json', function(data){
 
 ```
 
-> **Important note:** Some browsers will not allow you to call local files with AJAX. Try using this URL instead of `poll.json` if the local file doesn't work for you: http://cdn.rawgit.com/ejb/highcharts-tutorial/master/data/poll-data.json
+> **Important note:** Some browsers will not allow you to call local files with AJAX. If the local file doesn't work for you, try using this URL instead of `poll.json`: http://cdn.rawgit.com/ejb/highcharts-tutorial/master/data/poll-data.json
 
 Once the data is imported, we must shape it into a format that Highcharts can understand. Each line is a 'series', with a `name` and `data`. Inside the `data` array are pairs of dates and the actual y-axis value.
 
