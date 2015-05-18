@@ -178,7 +178,7 @@ Here's how our final chart should look. If yours doesn't look like this, [check 
 
 ## Working with dates
 
-Wrangling data into a Highcharts-compatible format is often half the battle, especially when it comes to time series data. However, that would make for a very dull tutorial. To save time, I've downloaded and converted a collection of [Guardian opinion polls](http://www.theguardian.com/news/datablog/2009/oct/21/icm-poll-data-labour-conservatives#data) for you to use. I basically just downloaded it from that Google Drive link, cleaned up the CSV file and ran it through [csvtojson.com](http://csvtojson.com).
+Wrangling data into a Highcharts-compatible format is often half the battle, especially when it comes to time series data. However, that would make for a very dull tutorial. To save time, I've downloaded and converted a collection of [Guardian opinion polls](http://www.theguardian.com/news/datablog/2009/oct/21/icm-poll-data-labour-conservatives#data) for you to use. I basically just downloaded it from that Google Drive link, cleaned up the CSV file and ran it through [csvtojson.com](http://csvtojson.com). We *could* embed the JSON file within the main JavaScript, but it's neater to keep it separate.
 
 Let's create a new HTML file and enter the small amount of HTML needed:
 
@@ -200,24 +200,22 @@ Let's create a new HTML file and enter the small amount of HTML needed:
 </html>
 ```
 
-Next, we need to import the data using AJAX. [The JSON file can be found here](data/poll-data.json). Make sure it's in the same folder as your HTML file.
+Next, we need to import the data using AJAX. [The JSON file can be found here](data/poll-data.json).
 
 ```js
-$.getJSON('poll-data.json', function(data){
+$.getJSON('http://cdn.rawgit.com/ejb/highcharts-tutorial/master/data/poll-data.json', function(data){
   console.log(data);
   // we will do stuff with imported data here...
 });
 
 ```
 
-> **Important note:** Some browsers will not allow you to call local files with AJAX. If the local file doesn't work for you, try using this URL instead of `poll.json`: http://cdn.rawgit.com/ejb/highcharts-tutorial/master/data/poll-data.json
-
 Once the data is imported, we must shape it into a format that Highcharts can understand. Each line is a 'series', with a `name` and `data`. Inside the `data` array are pairs of dates and the actual y-axis value.
 
 The most reliable way to enter dates in Highcharts is to convert everything to a [Unix timestamp](http://en.wikipedia.org/wiki/Unix_time) using JavaScript's native `Date.UTC()` function. Feed in `year, month, day` as numbers and it will produce a Unix timestamp. (Note: With Date.UTC, months are zero-indexed. That means that January is `0`, May is `4` and December is `11`. Confusing, I know.)
 
 ```js
-$.getJSON('poll-data.json', function(data){
+$.getJSON('http://cdn.rawgit.com/ejb/highcharts-tutorial/master/data/poll-data.json', function(data){
 
   // create three empty series to add our data into
   var highchartsFormat = [
