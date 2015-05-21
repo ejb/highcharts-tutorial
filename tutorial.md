@@ -1,6 +1,6 @@
 # Introduction to Highcharts
 
-Highcharts is a useful JavaScript library for producing [a range of different charts](http://www.highcharts.com/demo) with minimal configuration. In this tutorial, we'll be covering how to create a basic bar and line charts and how to customise them.
+Highcharts is a useful JavaScript library for producing [a range of different charts](http://www.highcharts.com/demo) with minimal configuration. In this tutorial, we'll be covering how to create basic bar and line charts and how to customise them.
 
 > **Important note:** Highcharts is free only for non-commercial use. If you want to use it in your publication, [you'll need to buy a license](http://www.highcharts.com/products/highcharts).
 
@@ -46,11 +46,11 @@ You've probably noticed that Highcharts has added many questionable elements by 
 - Annoying Highcharts.com logo
 - Styles such as colours and fonts
 
-... plus, because we didn't specify a chart type, it's visualised the data as a line chart.
+...plus, because we didn't specify a chart type, it's visualised the data as a line chart.
 
 All of these default settings can be overridden; and they should be, because this is a useless and ugly chart.
 
-Highcharts requires the use of [JavaScript configuration objects](http://javascript.info/tutorial/objects) to  change these default settings. If you've ever used jQuery's [$.ajax](http://jqfundamentals.com/chapter/ajax-deferreds) or [ANOTHER EXAMPLE], you've used configuration objects. Highcharts takes them configuration objects to another level; my objects can span hundreds of lines (even without the data!).
+Highcharts requires the use of [JavaScript configuration objects](http://javascript.info/tutorial/objects) to  change these default settings. If you've ever used jQuery's [$.ajax](http://jqfundamentals.com/chapter/ajax-deferreds) or [ANOTHER EXAMPLE], you've used configuration objects. Highcharts takes configuration objects to another level; my objects can span hundreds of lines (even without the data!).
 
 Let's add some more options into our chart's configuration object in order to clarify what this data actually represents.
 
